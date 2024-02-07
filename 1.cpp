@@ -5,6 +5,7 @@ int main(){
     cout<<"Enter your name : "; //getting user input
     cin>>name;
     cout<<"Hello, "<<name; //printing output
+	cout<<"Welcome";
 
     return 0;
 }
